@@ -30,7 +30,7 @@ ALLOWED_HOSTS = ['jpg-converter-backend.onrender.com']
 # CORS settings
 CORS_ALLOWED_ORIGINS = [
    'https://convertjpgpdf.netlify.app',
-   '  http://localhost:5173'
+   'http://localhost:5173'
 ]
 CORS_ALLOW_METHODS = [
     'GET',
